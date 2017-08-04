@@ -1,8 +1,8 @@
-cd C:/Users/HollyB4lls/Desktop/TestingServer/App/Application\ Files
+cd C:/Users/HollyB4lls/Desktop/TestingServer/App/
 
 git checkout master
 
-git add .
+git add Application Files
 
 git commit -am "test"
 
