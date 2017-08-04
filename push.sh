@@ -1,4 +1,4 @@
-cd C:/Users/HollyB4lls/Desktop/TestingServer/App/
+cd npm-local-dir && cd $_
 
 git checkout master
 
