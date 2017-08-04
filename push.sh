@@ -1,4 +1,4 @@
-cd C:/Users/HollyB4lls/Desktop/TestingServer/App
+cd C:/Users/HollyB4lls/Desktop/TestingServer/App/Application\ Files
 
 git checkout master
 
