@@ -2,7 +2,7 @@
 
 git checkout master
 
-git add Application Files
+git add Application\ Files
 
 git commit -am "test"
 
