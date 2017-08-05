@@ -1,4 +1,4 @@
-cd npm-local-dir && cd $_
+
 
 git checkout master
 
