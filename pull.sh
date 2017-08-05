@@ -1,8 +1,6 @@
 
 
-git fetch https://github.com/HollyB4lls/TestingServer.git
+git fetch https://github.com/HollyB4lls/TestingServer.git >/dev/null 2>&1
 
-git merge
+git merge >/dev/null 2>&1
 
-echo Press Enter...
-read
