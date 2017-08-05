@@ -6,7 +6,7 @@ git add Application\ Files
 
 git commit -am "test"
 
-git push -q
+git push >/dev/null 2>&1
 
 echo Press Enter...
 read
