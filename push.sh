@@ -1,12 +1,12 @@
 
 
-git checkout master >/dev/null 2>&1
+git checkout master 
 
-git add PlayerInfo.mdf >/dev/null 2>&1
+git add PlayerInfo.mdf 
 
-git add PlayerInfo_log.ldf >dev/null 2>&1
+git add PlayerInfo_log.ldf 
 
-git commit -am "test" >/dev/null 2>&1
+git commit -am "test" 
 
-git push >/dev/null 2>&1
+git push 
 
