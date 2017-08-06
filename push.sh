@@ -10,3 +10,5 @@ git commit -am "test"
 
 git push 
 
+echo .
+read
