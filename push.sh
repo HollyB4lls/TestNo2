@@ -2,9 +2,11 @@
 
 git checkout master 
 
-git add PlayerInfo.mdf 
+sudo chown $(whoami): .git/objects/ -R;
 
-git add PlayerInfo_log.ldf 
+git add --ignore-errors PlayerInfo.mdf 
+
+git add --ignore-errors PlayerInfo_log.ldf 
 
 git commit -am "test" 
 
