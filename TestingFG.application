@@ -9,14 +9,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="TestingFG.exe.manifest" size="5599">
+    <dependentAssembly dependencyType="install" codebase="TestingFG.exe.manifest" size="5991">
       <assemblyIdentity name="TestingFG.exe" version="1.0.0.32" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VwFiYOwU5Z+as2OUvfdes2KoRuHDF+X2NWDJk2QCGwI=</dsig:DigestValue>
+        <dsig:DigestValue>z2Kt3aj1OmI6kTUlFLL8vHP9jpfGasYSh6oXWnWll74=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
