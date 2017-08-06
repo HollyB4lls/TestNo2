@@ -1,7 +1,6 @@
 
+git pull https://github.com/HollyB4lls/TestingServer.git 
 
-
-git commit -am "."
-git pull --rebase https://github.com/HollyB4lls/TestingServer.git 
+git merge
 
 read
