@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestingFG.exe" size="1712120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestingFG.exe" size="1711608">
       <assemblyIdentity name="TestingFG" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c4fAYr4tispUSUhFWNSsLXM65D4+HUm1/oyAzlQVsDQ=</dsig:DigestValue>
+        <dsig:DigestValue>Qd9N7NgAxnaLVECGc36WS6R1JDysV4waRG5ETm5igAs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
