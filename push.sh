@@ -8,6 +8,8 @@ git add --ignore-errors PlayerInfo.mdf
 
 git add --ignore-errors PlayerInfo_log.ldf 
 
+git add --ignore-errors TestingFG.pdb
+
 git commit -am "test" 
 
 git push 
